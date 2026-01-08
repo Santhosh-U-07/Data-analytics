@@ -1,0 +1,43 @@
+                                                            python data types
+
+                            *single variable
+                            *multiple variable.
+
+
+
+                                                           code for types
+1,str
+print("hello")
+
+
+2,int:
+int=10:
+
+3,float:
+
+float=10.0:
+
+4,Boolean:
+
+status=true
+print(status)
+
+5,list:
+marks=[80,75,90,85]
+marks[0]=95
+print(marks)
+
+6,tuple:
+
+subject=("math's")
+print(subject)
+
+
+7,Dictionary:
+student={"name":"Ravi","age":20}
+print(student)
+
+8,set:
+
+numbers={1,2,3,4,5}
+print(numbers)
